@@ -3,8 +3,7 @@ require "formula"
 class Duti < Formula
   desc "Select default apps for documents and URL schemes on OS X"
   homepage "http://duti.org/"
-  head "https://github.com/moretension/duti.git"
-  url "https://github.com/moretension/duti/archive/duti-1.5.3.tar.gz"
+  head "https://github.com/tgfl-tom/duti.git"
   sha1 "2a4e34002db33133feb8057968d1f670bf422ea5"
 
   bottle do
